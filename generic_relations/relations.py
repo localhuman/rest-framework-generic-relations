@@ -9,7 +9,7 @@ import six
 from rest_framework import serializers
 
 
-class GenericRelatedField(serializers.WritableField):
+class GenericRelatedField(serializers.Field):
     """
     Represents a generic relation foreign key.
     It's actually more of a wrapper, that delegates the logic to registered
