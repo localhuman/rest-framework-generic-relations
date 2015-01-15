@@ -14,7 +14,7 @@ install_requires = [
 setup(
     name='rest-framework-generic-relations',
     version=version,
-    url='https://github.com/Ian-Foote/rest-framework-generic-relations',
+    url='https://github.com/localhuman/rest-framework-generic-relations',
     license='BSD',
     description='Generic Relations for Django Rest Framework',
     author='Ian Foote',
